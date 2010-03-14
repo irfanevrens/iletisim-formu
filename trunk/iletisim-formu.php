@@ -1,7 +1,7 @@
 <html>
 	<head>
 		
-		<title>İletişim Formu</title>
+		<title>İletişim Formu - Şiket İsmi Burada Gelecek</title>
 	
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		
@@ -11,7 +11,7 @@
 
 	<body>
 		<div id="genel">
-		İletişim Formu
+		İletişim Formu - Burası Başlıktır
 			<div id="bolum">
 				<form method="POST" action="<?php echo $_SERVER['SCRIPT_FILENAME'] ?>">
 					<table>
@@ -59,6 +59,7 @@
 										<b>Mesaj</b> : '.$gmesaj.'<br>
 										';	
 									
+										// headerlar mailin düzgün ulaşması için gereklidir.
 										$headers  = 'MIME-Version: 1.0' . "\r\n";
 										$headers .= 'Content-type: text/html; charset=UTF-8"' . "\r\n";
 										$headers .= 'To: Web Siteniz <sercan@bulsam.net>' . "\r\n";
