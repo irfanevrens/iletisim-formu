@@ -2,7 +2,6 @@
 
 14.03.2010
 Sercan Aksoy
-İletişim Formu Script V1.0
 http://www.buraya.com
 sercan@bulsam.net
 
@@ -16,6 +15,7 @@ div#genel {
 	font: 20px arial;
 	color: #00AAD5;
 	padding: 11px;
+	text-align: center;
 }
 
 /*form kutularının bulunduğu alan*/
@@ -56,5 +56,4 @@ div#bolum  td {
 	border: 3px solid #52DCFF;
 	color: #fff;
 	font: 19px arial;
-	float: right;
 }
