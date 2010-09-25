@@ -1,0 +1,5 @@
+#summary Bu sayfa bu iletişim formunun ne amaçla kullanılabileceğini açıklamaktadır.
+
+= Ön Bilgi =
+
+Bir web siteniz var ve sunucunuz php dilini destekliyorsa web sitenizi ziyaret eden ziyaretçilerinizin size ulaşmalarını kolaylaştırmak için bu iletişim formu işinizi görecektir. Kendinize göre bilgileri düzenleyebilirsiniz.
